@@ -2,7 +2,7 @@
 ### Senior in Computer Science at BITS PILANI
 [![Twitter Follow](https://img.shields.io/twitter/follow/GattuRohithKum2?label=Follow)](https://twitter.com/intent/follow?screen_name=GattuRohithKum2)
 [![Linkedin: Rohith](https://img.shields.io/badge/-Rohith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gattu-rohith-kumar-102965192/)](https://www.linkedin.com/in/gattu-rohith-kumar-102965192/)
-[<img align="left" alt="Rohith Kumar Gattu | G Mail" width=22px src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">](mailto:rohithkumargattu979@gmail.com)
+[<img align="left" alt="Rohith Kumar Gattu | G Mail" width=22px target="_blank" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">](mailto:rohithkumargattu979@gmail.com)
 [<img align="left" alt="Rohith Kumar Gattu | Instagram" width=22px src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg">](https://www.instagram.com/rohith_kumar_gattu/)
 [<img align="left" alt="saiankit | Facebook" width=22px src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg">](https://www.facebook.com/gattu.sunny.1/)
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
