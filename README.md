@@ -31,8 +31,9 @@ const RohithGattu = {
             js: ["node", "express"],
         },
         frontEnd: {
-            js: ["React", "Angular", "Flutter"],
-            css: ["bootstrap"]
+            js: ["React", "Angular"],
+            css: ["bootstrap"],
+            framework: ["Flutter"]
         },
         mobileApp: {
             native: ["Android Development", "Flutter Development", ".NET/Xamarin Development"]
