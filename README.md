@@ -43,6 +43,6 @@ const RohithGattu = {
     },
     architecture: ["Micro Services"],
     currentFocus: "Flutter Development, MERN Stack",
-    funFact: "The one who doesn't remember the past are tend to repeat it- DP"
+    funFact: "When you accustom to Greedy, it's heavy to appreciate DFS - RohithGattu"
 };
 ```
