@@ -46,3 +46,4 @@ const RohithGattu = {
     funFact: "When you accustom to Greedy, it's heavy to appreciate DFS - RohithGattu"
 };
 ```
+![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohithkumargattu979&show_icons=true&theme=tokyonight)
