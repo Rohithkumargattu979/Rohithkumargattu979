@@ -42,7 +42,7 @@ const RohithGattu = {
         misc: ["Firebase", "Socket.IO", "selenium", "mongoDB"]
     },
     architecture: ["Micro Services"],
-    currentFocus: "Flutter Development, MERN Stack",
+    currentFocus: "NLP, Data Science and its Applications, Deep Learning",
     funFact: "When you accustom to Greedy, it's heavy to appreciate DFS - RohithGattu"
 };
 ```
