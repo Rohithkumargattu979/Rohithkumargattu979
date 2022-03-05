@@ -32,7 +32,7 @@ const RohithGattu = {
         },
         frontEnd: {
             js: ["React", "Angular"],
-            css: ["bootstrap"],
+            css: ["bootstrap", "Tailwind"],
             framework: ["Flutter"]
         },
         mobileApp: {
