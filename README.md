@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Rohith Kumar Gattu
-### Junior in Computer Science at BITS PILANI
+### Senior in Computer Science at BITS PILANI
 [![Twitter Follow](https://img.shields.io/twitter/follow/GattuRohithKum2?label=Follow)](https://twitter.com/intent/follow?screen_name=GattuRohithKum2)
 [![Linkedin: Rohith](https://img.shields.io/badge/-Rohith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gattu-rohith-kumar-102965192/)](https://www.linkedin.com/in/gattu-rohith-kumar-102965192/)
 [<img align="left" alt="Rohith Kumar Gattu | G Mail" width=22px target="_blank" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg">](mailto:rohithkumargattu979@gmail.com)
